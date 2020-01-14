@@ -6,4 +6,4 @@ __Jupyter notebook URL:__ https://dataplatform.cloud.ibm.com/analytics/notebooks
 
 __Assignment description:__ Recreate Google's Page Rank algorithm using __*Eigenvectors*__ concept
 
-__Github notebook rendering issue:__ If Gibhub has problem rendering the Jupyter notebook, you are welcome to download the notebook and review it outside of this Github account or check out the PageRank_Preview pdf file.
+__Github notebook rendering issue:__ If Gibhub has problem rendering the Jupyter notebook, you are welcome to download the notebook and review it outside of this Github account or check out the __*PageRank_Preview*__ pdf file.
